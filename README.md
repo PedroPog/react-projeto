@@ -15,4 +15,19 @@
       </ul>
     </ul>
   </li>
+  <li>
+    <a href="https://github.com/PedroPog/react-projeto/tree/5f1f510f8876156aa551d4bb07d369505d97c7c7/costs">
+      Costs:
+    </a>
+    <span>Descricao.</span>
+    <ul>
+      <li>Pacotes utilizados</li>
+      <ul>
+        <li>Routes (react-router-dom)</li>
+        <li>Icons React (react-icons)</li>
+        <li>Json Server (json-server)</li>
+        <li>Uuid (uuid)</li>
+      </ul>
+    </ul>
+  </li>
 </ul>
