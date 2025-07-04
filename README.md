@@ -7,5 +7,12 @@
       First-app:
     </a>
     <span>Projeto conhecendo estrutura react e estudando estruturas de organizações.</span>
+    <ul>
+      <li>Pacotes utilizados</li>
+      <ul>
+        <li>Routes (react-router-dom)</li>
+        <li>Icons React (react-icons)</li>
+      </ul>
+    </ul>
   </li>
 </ul>
